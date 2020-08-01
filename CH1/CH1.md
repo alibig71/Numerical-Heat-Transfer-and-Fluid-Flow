@@ -31,3 +31,12 @@ ________________________________
 1. The most reliable infomation about physical process is often given by actual measurement.  
 2. These tests are prohibitively expensive and often impossible.     
 3. The measuring instruments are not free from errors. 
+
+
+
+________________________________
+### Theoretical Calculation 
+________________________________
+
+1. A theoretical predicton works out the consequance f a mathematical model 
+2. 
