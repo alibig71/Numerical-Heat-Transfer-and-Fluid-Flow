@@ -1,4 +1,4 @@
 # Chapter 1 : Introduction 
 
 
-- Here we will see Three Methods of Pridiction 
+## Here we will see **Three Methods of Pridiction** 
