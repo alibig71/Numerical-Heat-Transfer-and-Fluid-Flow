@@ -18,3 +18,6 @@ Scopee of computational science **1)** Heat and Mass Transfer **2)** Fluid Flow 
 **`Predictions`** help us forecasting, controlling, and operating the equipments more safely and efficiently. 
 
 Also, **`Predictions`** benefits us economicly  
+
+
+
