@@ -1,9 +1,10 @@
 # Chapter 1 : Introduction 
 
 
-## Here we will see 
 
-**Three Methods of Pridiction** 
+**Here we will see three methods of ridiction** 
 
 
-Three Methods of Pridiction 
+Scopee of computational science    1) Heat and Mass Transfer 2) Fluid Flow 3) Chemical Reaction 4) Petroleum Reservoir Simulation 5) etc ... 
+
+Visit: https://en.wikipedia.org/wiki/Computational_science
