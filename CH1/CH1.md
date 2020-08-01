@@ -20,4 +20,4 @@ Scopee of computational science **1)** Heat and Mass Transfer **2)** Fluid Flow 
 Also, **`Predictions`** benefits us economicly  
 
 
-
+- The prediction should state how any of quantities would change in response to proposed changes in geometery and operational conditions throughout the domian and interval of interest!!!
