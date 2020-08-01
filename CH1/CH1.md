@@ -2,7 +2,7 @@
 
 
 
-**Here we will see three methods of pridiction** 
+**Here we will see two methods of pridiction** 
 
 
 Scopee of computational science **1)** Heat and Mass Transfer **2)** Fluid Flow **3)** Chemical Reaction **4)** Petroleum Reservoir Simulation **5)** etc 
@@ -21,3 +21,8 @@ Also, **`Predictions`** benefits us economicly
 
 
 - The prediction should state how any of quantities would change in response to proposed changes in geometery and operational conditions throughout the domian and interval of interest!!!
+
+
+________________________________
+## Experimental Investigation
+________________________________
