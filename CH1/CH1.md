@@ -24,5 +24,10 @@ Also, **`Predictions`** benefits us economicly
 
 
 ________________________________
-## Experimental Investigation
+### Experimental Investigation
 ________________________________
+
+
+1. The most reliable infomation about physical process is often given by actual measurement.  
+2. These tests are prohibitively expensive and often impossible.     
+3. The measuring instruments are not free from errors. 
